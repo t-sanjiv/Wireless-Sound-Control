@@ -1,1 +1,1 @@
-# Wireless-Sound-Control
+The wireless sound control project allows users to control the volume of an audio output device using hand gestures captured by a camera. The system utilizes computer vision techniques and machine learning algorithms to recognize specific hand gestures as volume commands, translating them into corresponding volume adjustments.
